@@ -11,3 +11,9 @@ example_multi_process.sh
 logging.sh
 ---
 	log，输出到stdout
+	
+mysql_mem.sh
+	查看mysqld 内存配置
+	
+mysqlreport.perl
+	mysql运行状态
